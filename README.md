@@ -1,2 +1,2 @@
 # Spring_data_JPA
-Spring data JPA Handsons
+Spring data JPA all Handsons
